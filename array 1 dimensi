@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class BangunRuang {
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+
+        double sisi, p, l, t;
+        double volumeKubus, volumeBalok;
+
+        System.out.println("PROGRAM BANGUN RUANG");
+
+        System.out.print("Masukkan sisi kubus: ");
+        sisi = input.nextDouble();
+
+        volumeKubus = sisi * sisi * sisi;
+
+        System.out.println("Volume Kubus = " + volumeKubus);
+
+        System.out.print("\nMasukkan panjang balok: ");
+        p = input.nextDouble();
+
+        System.out.print("Masukkan lebar balok: ");
+        l = input.nextDouble();
+
+        System.out.print("Masukkan tinggi balok: ");
+        t = input.nextDouble();
+
+        volumeBalok = p * l * t;
+
+        System.out.println("Volume Balok = " + volumeBalok);
+    }
+}
