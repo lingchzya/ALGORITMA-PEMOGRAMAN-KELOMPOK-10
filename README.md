@@ -173,6 +173,3 @@ Program ini membantu memahami konsep dasar struktur data array dan perulangan (l
 
 Contoh tampilan saat program dijalankan:
 
-"Output Program" (screenshot.png)
-
-(Ganti "screenshot.png" dengan gambar hasil program yang sudah diupload ke repository GitHub.)
