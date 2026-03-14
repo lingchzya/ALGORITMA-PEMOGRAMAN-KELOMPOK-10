@@ -2,6 +2,7 @@
 
 # Deskripsi Program
 Lingga chezya poetra (312510169)
+Faza fauzan adhima   (312510148)
 
 Program ini dibuat menggunakan bahasa pemrograman Java untuk memenuhi tugas pemrograman dasar.
 Program terdiri dari tiga bagian utama yaitu:
