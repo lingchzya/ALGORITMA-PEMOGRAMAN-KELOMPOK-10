@@ -1,6 +1,7 @@
 # Program Java: Bangun Ruang, Array 1 Dimensi, dan Array 2 Dimensi
 
 # Deskripsi Program
+Lingga chezya poetra (312510169)
 
 Program ini dibuat menggunakan bahasa pemrograman Java untuk memenuhi tugas pemrograman dasar.
 Program terdiri dari tiga bagian utama yaitu:
